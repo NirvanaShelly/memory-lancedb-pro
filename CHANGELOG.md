@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.16
+
+- Feat: expand memory capture triggers to support Traditional Chinese (繁體中文) in addition to Simplified Chinese, and improve category detection keywords.
+
 ## 1.0.15
 
 - Docs: add troubleshooting note for LanceDB/Arrow returning `BigInt` numeric columns, and confirm the plugin coerces numeric fields via `Number(...)` for compatibility.
